@@ -2,7 +2,6 @@
 
 This repository contains a full reproduction of the paper:  
 **“FLUID: Few-Shot Self-Supervised Image Deraining” (CVPR 2022)**  
-Implemented and tested by **Risheek V. Hiremath (IIIT-H Assignment).**
 
 ---
 
