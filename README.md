@@ -165,13 +165,5 @@ If you use this code, please cite:
 }
 ```
 
----
-
-## 👤 Author
-
-**Risheek V. H**  
-🎓 Reproduced as part of IIIT Hyderabad Research Assignment (October 2025)
-
----
 
 ✅ *End of Document*
