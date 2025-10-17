@@ -57,6 +57,8 @@ DATA_ROOT/
 
 ## ⚙️ 3. Training Stages
 
+Download Checkpoints from https://drive.google.com/drive/folders/1KWDcmZ7ql0pr6Q00EjbuXBcud3JjLrUG?usp=sharing
+
 ### (1) Train PEN (Probability Estimation Network)
 For **1-shot:**
 ```bash
